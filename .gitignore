@@ -1,0 +1,80 @@
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Dependencies
+node_modules/
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+*.env.*
+
+# Build artifacts
+build/
+dist/
+*.o
+*.obj
+*.out
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage/
+
+# MyPy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest cache
+.pytest_cache/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.manifest
+install.manifest
+*.cmake
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
